@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# ML / Data artifacts
+*.pkl
+*.bin
+
+# System / IDE
+.DS_Store
+.vscode/
