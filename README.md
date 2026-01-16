@@ -41,8 +41,8 @@ This project is a **multilingual chatbot** that helps users find **health-relate
 
 ## 🛠️ Setup Instructions
 1. Clone the Repository
-- git clone https://github.com/AnshAggr1303/ByteBuilder_Multilingual_chatbot.git
-- cd ByteBuilder_Multilingual_chatbot
+- git clone https://github.com/Vatsy05/HealthCare_Multilingual_Bot.git
+- cd HealthCare_Multilingual_Bot
 
 2. Set Up Virtual Environments
 - For Bloom LLM and FAISS:
@@ -96,6 +96,6 @@ This project is licensed under the MIT License. See the **`LICENSE`** file for d
 
 ## 📬 Contact
 If you have any questions or suggestions, feel free to contact me:
-- **Email:** anshagrawal148@gmail.com.com
+- **Email:** iamvathsal555@gmail.com
 
 ---
