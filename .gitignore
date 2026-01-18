@@ -12,3 +12,5 @@ __pycache__/
 # System / IDE
 .DS_Store
 .vscode/
+*.mov
+
