@@ -592,7 +592,7 @@ responses:
   utter_super_term_tax_implications:
     - text: "Premiums are eligible for tax deductions under Section 80C; death benefit payouts are generally tax-free subject to conditions."
 
-  # Max Life Smart Guaranteed Pension Plan Responses
+  # Max Life Smart Guaranteed Pension Plan Response
   utter_maxlife_smart_guaranteed_general_plan_information:
     - text: "Max Life Smart Guaranteed Pension Plan offers a non-linked, non-participating annuity option that guarantees a lifetime income payout."
   utter_maxlife_smart_guaranteed_eligibility_inquiry:
